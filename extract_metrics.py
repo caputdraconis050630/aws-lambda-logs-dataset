@@ -1,6 +1,7 @@
 import boto3
 import pandas as pd
-from datetime import datetime
+import json
+from datetime import datetime, timedelta
 
 logs_client = boto3.client('logs', region_name='ap-northeast-2')
 lambda_client = boto3.client('lambda', region_name='ap-northeast-2')
@@ -9,6 +10,7 @@ lambda_functions = ['slack_invitor', 'slack_invitor_invite_all', 'slack_invitor_
 
 for function_name in lambda_functions:
     print(f"{function_name} 함수의 로그 데이터를 추출합니다...")
+    
     log_group_name = f"/aws/lambda/{function_name}"
     
     try:
@@ -38,7 +40,7 @@ for function_name in lambda_functions:
                 break
         
         all_events = []
-        
+
         for stream in log_streams:
             stream_name = stream['logStreamName']
             next_token = None
@@ -66,7 +68,7 @@ for function_name in lambda_functions:
                         if "REPORT RequestId:" in message:
                             try:
                                 parts = message.split('\t')
-                                request_id = parts.split('RequestId: ').strip()
+                                request_id = parts[0].split('RequestId: ')[1].strip()
                                 
                                 event_data = {
                                     'RequestId': request_id,
@@ -108,8 +110,8 @@ for function_name in lambda_functions:
                     except:
                         pass
             
-            df.to_csv(f'{function_name}_metrics.csv', index=False)
-            print(f"{len(df)} 개의 이벤트가 {function_name}_metrics.csv 파일로 저장되었습니다.")
+            df.to_csv(f'{function_name}_events.csv', index=False)
+            print(f"{len(df)} 개의 이벤트가 {function_name}_events.csv 파일로 저장되었습니다.")
         else:
             print(f"{function_name}에 대한 이벤트 데이터가 없습니다.")
     

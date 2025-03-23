@@ -1,7 +1,0 @@
-RequestId,Timestamp,Function,Duration,Billed Duration,Memory Size,Max Memory Used,Init Duration
-7f6d3f0f-3011-4f03-b2b3-4ba049decf60,2025-03-22 23:19:02.950,slack_invitor,1.97,2.0,128.0,31.0,84.16
-4b45fbed-63af-460f-974a-3c60ac87c06e,2025-03-22 23:38:42.634,slack_invitor,2.03,3.0,128.0,31.0,83.35
-d26f020f-d317-4277-92fe-5e38650eb9f7,2025-03-22 23:58:29.629,slack_invitor,1.97,2.0,128.0,31.0,132.32
-a6554cd2-0aca-4fcb-995f-129d54a708fb,2025-03-23 00:18:37.302,slack_invitor,2.06,3.0,128.0,31.0,79.7
-50a0965e-4fbf-43e6-9ac4-433136047fc6,2025-03-23 00:38:43.966,slack_invitor,2.16,3.0,128.0,31.0,86.46
-2e0a64fa-a1d4-4f97-94ab-532c9a24fed5,2025-03-23 00:58:07.255,slack_invitor,1.97,2.0,128.0,31.0,86.05

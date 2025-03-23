@@ -1,0 +1,111 @@
+timestamp,message,requestId,duration,billedDuration,memorySize,maxMemoryUsed
+2025-03-20T08:04:47.784000,"START RequestId: cae7d332-9d11-47ee-beff-a117a8136b18 Version: $LATEST
+",cae7d332-9d11-47ee-beff-a117a8136b18,,,,
+2025-03-20T08:04:47.784000,"Processing channel: C06FTDX1LG4
+",,,,,
+2025-03-20T08:04:47.849000,"Found convention: 인하대_전*
+",,,,,
+2025-03-20T08:04:56.885000,"Found 4586 members in workspace
+",,,,,
+2025-03-20T08:04:57.250000,"Error fetching channel members: channel_not_found
+",,,,,
+2025-03-20T08:04:57.534000,"Failed to invite user U05Q61TVBDZ to channel C06FTDX1LG4: channel_not_found
+",,,,,
+2025-03-20T08:04:58.046000,"END RequestId: cae7d332-9d11-47ee-beff-a117a8136b18
+",cae7d332-9d11-47ee-beff-a117a8136b18,,,,
+2025-03-20T08:04:58.046000,"REPORT RequestId: cae7d332-9d11-47ee-beff-a117a8136b18	Duration: 10261.35 ms	Billed Duration: 10262 ms	Memory Size: 1024 MB	Max Memory Used: 107 MB	
+",cae7d332-9d11-47ee-beff-a117a8136b18,10261.35,10262.0,1024.0,107.0
+2025-03-20T08:09:25.432000,"START RequestId: c9ad9ffa-861d-484d-b6fb-7b87c93ecce7 Version: $LATEST
+",c9ad9ffa-861d-484d-b6fb-7b87c93ecce7,,,,
+2025-03-20T08:09:25.433000,"Processing channel: C06FTDX1LG4
+",,,,,
+2025-03-20T08:09:25.494000,"Found convention: 인하대_전*
+",,,,,
+2025-03-20T08:09:34.385000,"Found 4586 members in workspace
+",,,,,
+2025-03-20T08:09:34.679000,"Error fetching channel members: channel_not_found
+",,,,,
+2025-03-20T08:09:34.984000,"Failed to invite user U05Q61TVBDZ to channel C06FTDX1LG4: channel_not_found
+",,,,,
+2025-03-20T08:09:35.496000,"END RequestId: c9ad9ffa-861d-484d-b6fb-7b87c93ecce7
+",c9ad9ffa-861d-484d-b6fb-7b87c93ecce7,,,,
+2025-03-20T08:09:35.496000,"REPORT RequestId: c9ad9ffa-861d-484d-b6fb-7b87c93ecce7	Duration: 10063.69 ms	Billed Duration: 10064 ms	Memory Size: 1024 MB	Max Memory Used: 110 MB	
+",c9ad9ffa-861d-484d-b6fb-7b87c93ecce7,10063.69,10064.0,1024.0,110.0
+2025-03-20T08:16:29.043000,"INIT_START Runtime Version: python:3.13.v31	Runtime Version ARN: arn:aws:lambda:ap-northeast-2::runtime:f713ac0afb982fcdf9bac88eaa00c31352efae870b225c19f1603fe79159a6f1
+",,,,,
+2025-03-20T08:16:29.603000,"START RequestId: 8c65de72-cd21-4eaa-bd28-a77429599fc1 Version: $LATEST
+",8c65de72-cd21-4eaa-bd28-a77429599fc1,,,,
+2025-03-20T08:16:29.603000,"Processing channel: C06FBUBJ3QE
+",,,,,
+2025-03-20T08:16:29.947000,"Found convention: 인하대_전*
+",,,,,
+2025-03-20T08:16:38.924000,"Found 4586 members in workspace
+",,,,,
+2025-03-20T08:16:39.209000,"Error fetching channel members: channel_not_found
+",,,,,
+2025-03-20T08:16:39.488000,"Failed to invite user U05Q61TVBDZ to channel C06FBUBJ3QE: channel_not_found
+",,,,,
+2025-03-20T08:16:40.001000,"END RequestId: 8c65de72-cd21-4eaa-bd28-a77429599fc1
+",8c65de72-cd21-4eaa-bd28-a77429599fc1,,,,
+2025-03-20T08:16:40.001000,"REPORT RequestId: 8c65de72-cd21-4eaa-bd28-a77429599fc1	Duration: 10397.10 ms	Billed Duration: 10398 ms	Memory Size: 1024 MB	Max Memory Used: 106 MB	Init Duration: 557.00 ms	
+",8c65de72-cd21-4eaa-bd28-a77429599fc1,10397.1,10398.0,1024.0,106.0
+2025-03-20T08:34:34.149000,"INIT_START Runtime Version: python:3.13.v31	Runtime Version ARN: arn:aws:lambda:ap-northeast-2::runtime:f713ac0afb982fcdf9bac88eaa00c31352efae870b225c19f1603fe79159a6f1
+",,,,,
+2025-03-20T08:34:34.572000,"START RequestId: 2c314c01-268b-4ead-86c6-6b55fb97cbfe Version: $LATEST
+",2c314c01-268b-4ead-86c6-6b55fb97cbfe,,,,
+2025-03-20T08:34:34.573000,"Processing channel: C06FBUBJ3QE
+",,,,,
+2025-03-20T08:34:34.861000,"Found convention: 인하대_전*
+",,,,,
+2025-03-20T08:34:44.414000,"Found 4586 members in workspace
+",,,,,
+2025-03-20T08:34:45.268000,"Invited user 인하대_전민혜 (ID: U05Q61TVBDZ) to channel C06FBUBJ3QE
+",,,,,
+2025-03-20T08:34:45.778000,"END RequestId: 2c314c01-268b-4ead-86c6-6b55fb97cbfe
+",2c314c01-268b-4ead-86c6-6b55fb97cbfe,,,,
+2025-03-20T08:34:45.778000,"REPORT RequestId: 2c314c01-268b-4ead-86c6-6b55fb97cbfe	Duration: 11204.90 ms	Billed Duration: 11205 ms	Memory Size: 1024 MB	Max Memory Used: 106 MB	Init Duration: 419.88 ms	
+",2c314c01-268b-4ead-86c6-6b55fb97cbfe,11204.9,11205.0,1024.0,106.0
+2025-03-20T08:39:23.351000,"INIT_START Runtime Version: python:3.13.v31	Runtime Version ARN: arn:aws:lambda:ap-northeast-2::runtime:f713ac0afb982fcdf9bac88eaa00c31352efae870b225c19f1603fe79159a6f1
+",,,,,
+2025-03-20T08:39:23.862000,"START RequestId: 6f9ae8c3-8e9d-41dd-8d49-78f0d65fb816 Version: $LATEST
+",6f9ae8c3-8e9d-41dd-8d49-78f0d65fb816,,,,
+2025-03-20T08:39:23.863000,"Processing channel: C06FBUBJ3QE
+",,,,,
+2025-03-20T08:39:24.158000,"Found convention: 인하대_전*
+",,,,,
+2025-03-20T08:39:33.134000,"Found 4586 members in workspace
+",,,,,
+2025-03-20T08:39:33.841000,"Invited user 인하대_전민혜 (ID: U05Q61TVBDZ) to channel C06FBUBJ3QE
+",,,,,
+2025-03-20T08:39:34.353000,"END RequestId: 6f9ae8c3-8e9d-41dd-8d49-78f0d65fb816
+",6f9ae8c3-8e9d-41dd-8d49-78f0d65fb816,,,,
+2025-03-20T08:39:34.353000,"REPORT RequestId: 6f9ae8c3-8e9d-41dd-8d49-78f0d65fb816	Duration: 10489.92 ms	Billed Duration: 10490 ms	Memory Size: 1024 MB	Max Memory Used: 106 MB	Init Duration: 508.67 ms	
+",6f9ae8c3-8e9d-41dd-8d49-78f0d65fb816,10489.92,10490.0,1024.0,106.0
+2025-03-20T08:52:25.024000,"INIT_START Runtime Version: python:3.13.v31	Runtime Version ARN: arn:aws:lambda:ap-northeast-2::runtime:f713ac0afb982fcdf9bac88eaa00c31352efae870b225c19f1603fe79159a6f1
+",,,,,
+2025-03-20T08:52:25.525000,"START RequestId: 7b832174-622e-49f3-9b0f-4246bc116fad Version: $LATEST
+",7b832174-622e-49f3-9b0f-4246bc116fad,,,,
+2025-03-20T08:52:25.526000,"Processing channel: C08JM5QMMKM
+",,,,,
+2025-03-20T08:52:25.806000,"Found convention: 2025_인하대캡스톤_*
+",,,,,
+2025-03-20T08:52:27.603000,"INIT_START Runtime Version: python:3.13.v31	Runtime Version ARN: arn:aws:lambda:ap-northeast-2::runtime:f713ac0afb982fcdf9bac88eaa00c31352efae870b225c19f1603fe79159a6f1
+",,,,,
+2025-03-20T08:52:28.084000,"START RequestId: 9e18601f-1af8-4542-a4c5-343a002d6bd0 Version: $LATEST
+",9e18601f-1af8-4542-a4c5-343a002d6bd0,,,,
+2025-03-20T08:52:28.085000,"Processing channel: C08JM5QMMKM
+",,,,,
+2025-03-20T08:52:28.357000,"Found convention: 2025_인하대캡스톤_*
+",,,,,
+2025-03-20T08:52:35.203000,"Found 4587 members in workspace
+",,,,,
+2025-03-20T08:52:35.504000,"END RequestId: 7b832174-622e-49f3-9b0f-4246bc116fad
+",7b832174-622e-49f3-9b0f-4246bc116fad,,,,
+2025-03-20T08:52:35.504000,"REPORT RequestId: 7b832174-622e-49f3-9b0f-4246bc116fad	Duration: 9978.15 ms	Billed Duration: 9979 ms	Memory Size: 1024 MB	Max Memory Used: 106 MB	Init Duration: 497.92 ms	
+",7b832174-622e-49f3-9b0f-4246bc116fad,9978.15,9979.0,1024.0,106.0
+2025-03-20T08:52:37.588000,"Found 4587 members in workspace
+",,,,,
+2025-03-20T08:52:37.883000,"END RequestId: 9e18601f-1af8-4542-a4c5-343a002d6bd0
+",9e18601f-1af8-4542-a4c5-343a002d6bd0,,,,
+2025-03-20T08:52:37.883000,"REPORT RequestId: 9e18601f-1af8-4542-a4c5-343a002d6bd0	Duration: 9797.67 ms	Billed Duration: 9798 ms	Memory Size: 1024 MB	Max Memory Used: 106 MB	Init Duration: 478.94 ms	
+",9e18601f-1af8-4542-a4c5-343a002d6bd0,9797.67,9798.0,1024.0,106.0

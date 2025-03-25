@@ -61,10 +61,10 @@ timestamp,message,requestId,duration,billedDuration,memorySize,maxMemoryUsed
 ",,,,,
 2025-03-20T08:34:45.268000,"Invited user 인하대_전민혜 (ID: U05Q61TVBDZ) to channel C06FBUBJ3QE
 ",,,,,
-2025-03-20T08:34:45.778000,"END RequestId: 2c314c01-268b-4ead-86c6-6b55fb97cbfe
-",2c314c01-268b-4ead-86c6-6b55fb97cbfe,,,,
 2025-03-20T08:34:45.778000,"REPORT RequestId: 2c314c01-268b-4ead-86c6-6b55fb97cbfe	Duration: 11204.90 ms	Billed Duration: 11205 ms	Memory Size: 1024 MB	Max Memory Used: 106 MB	Init Duration: 419.88 ms	
 ",2c314c01-268b-4ead-86c6-6b55fb97cbfe,11204.9,11205.0,1024.0,106.0
+2025-03-20T08:34:45.778000,"END RequestId: 2c314c01-268b-4ead-86c6-6b55fb97cbfe
+",2c314c01-268b-4ead-86c6-6b55fb97cbfe,,,,
 2025-03-20T08:39:23.351000,"INIT_START Runtime Version: python:3.13.v31	Runtime Version ARN: arn:aws:lambda:ap-northeast-2::runtime:f713ac0afb982fcdf9bac88eaa00c31352efae870b225c19f1603fe79159a6f1
 ",,,,,
 2025-03-20T08:39:23.862000,"START RequestId: 6f9ae8c3-8e9d-41dd-8d49-78f0d65fb816 Version: $LATEST
@@ -99,13 +99,77 @@ timestamp,message,requestId,duration,billedDuration,memorySize,maxMemoryUsed
 ",,,,,
 2025-03-20T08:52:35.203000,"Found 4587 members in workspace
 ",,,,,
-2025-03-20T08:52:35.504000,"END RequestId: 7b832174-622e-49f3-9b0f-4246bc116fad
-",7b832174-622e-49f3-9b0f-4246bc116fad,,,,
 2025-03-20T08:52:35.504000,"REPORT RequestId: 7b832174-622e-49f3-9b0f-4246bc116fad	Duration: 9978.15 ms	Billed Duration: 9979 ms	Memory Size: 1024 MB	Max Memory Used: 106 MB	Init Duration: 497.92 ms	
 ",7b832174-622e-49f3-9b0f-4246bc116fad,9978.15,9979.0,1024.0,106.0
+2025-03-20T08:52:35.504000,"END RequestId: 7b832174-622e-49f3-9b0f-4246bc116fad
+",7b832174-622e-49f3-9b0f-4246bc116fad,,,,
 2025-03-20T08:52:37.588000,"Found 4587 members in workspace
 ",,,,,
 2025-03-20T08:52:37.883000,"END RequestId: 9e18601f-1af8-4542-a4c5-343a002d6bd0
 ",9e18601f-1af8-4542-a4c5-343a002d6bd0,,,,
 2025-03-20T08:52:37.883000,"REPORT RequestId: 9e18601f-1af8-4542-a4c5-343a002d6bd0	Duration: 9797.67 ms	Billed Duration: 9798 ms	Memory Size: 1024 MB	Max Memory Used: 106 MB	Init Duration: 478.94 ms	
 ",9e18601f-1af8-4542-a4c5-343a002d6bd0,9797.67,9798.0,1024.0,106.0
+2025-03-24T04:41:11.348000,"INIT_START Runtime Version: python:3.13.v31	Runtime Version ARN: arn:aws:lambda:ap-northeast-2::runtime:f713ac0afb982fcdf9bac88eaa00c31352efae870b225c19f1603fe79159a6f1
+",,,,,
+2025-03-24T04:41:11.836000,"START RequestId: f7c8248b-b190-4352-ba92-83ad731a9bfe Version: $LATEST
+",f7c8248b-b190-4352-ba92-83ad731a9bfe,,,,
+2025-03-24T04:41:11.837000,"Processing channel: C06FBUBJ3QE
+",,,,,
+2025-03-24T04:41:12.153000,"Found convention: 호호잇
+",,,,,
+2025-03-24T04:41:20.876000,"Found 4605 members in workspace
+",,,,,
+2025-03-24T04:41:21.168000,"REPORT RequestId: f7c8248b-b190-4352-ba92-83ad731a9bfe	Duration: 9331.52 ms	Billed Duration: 9332 ms	Memory Size: 1024 MB	Max Memory Used: 106 MB	Init Duration: 485.30 ms	
+",f7c8248b-b190-4352-ba92-83ad731a9bfe,9331.52,9332.0,1024.0,106.0
+2025-03-24T04:41:21.168000,"END RequestId: f7c8248b-b190-4352-ba92-83ad731a9bfe
+",f7c8248b-b190-4352-ba92-83ad731a9bfe,,,,
+2025-03-24T04:41:29.368000,"START RequestId: 19f2a4dd-aedd-4370-b359-6653f7a2c5d1 Version: $LATEST
+",19f2a4dd-aedd-4370-b359-6653f7a2c5d1,,,,
+2025-03-24T04:41:29.369000,"Processing channel: C06FBUBJ3QE
+",,,,,
+2025-03-24T04:41:29.434000,"Found convention: 호호잇
+",,,,,
+2025-03-24T04:41:38.248000,"Found 4605 members in workspace
+",,,,,
+2025-03-24T04:41:38.540000,"REPORT RequestId: 19f2a4dd-aedd-4370-b359-6653f7a2c5d1	Duration: 9171.38 ms	Billed Duration: 9172 ms	Memory Size: 1024 MB	Max Memory Used: 106 MB	
+",19f2a4dd-aedd-4370-b359-6653f7a2c5d1,9171.38,9172.0,1024.0,106.0
+2025-03-24T04:41:38.540000,"END RequestId: 19f2a4dd-aedd-4370-b359-6653f7a2c5d1
+",19f2a4dd-aedd-4370-b359-6653f7a2c5d1,,,,
+2025-03-24T04:51:53.569000,"INIT_START Runtime Version: python:3.13.v31	Runtime Version ARN: arn:aws:lambda:ap-northeast-2::runtime:f713ac0afb982fcdf9bac88eaa00c31352efae870b225c19f1603fe79159a6f1
+",,,,,
+2025-03-24T04:51:53.983000,"START RequestId: 14909aaf-d853-459e-ad7b-146906936c72 Version: $LATEST
+",14909aaf-d853-459e-ad7b-146906936c72,,,,
+2025-03-24T04:51:53.984000,"Processing channel: C06FBUBJ3QE
+",,,,,
+2025-03-24T04:51:54.271000,"Found convention: 홍
+",,,,,
+2025-03-24T04:52:02.898000,"Found 4605 members in workspace
+",,,,,
+2025-03-24T04:52:03.187000,"END RequestId: 14909aaf-d853-459e-ad7b-146906936c72
+",14909aaf-d853-459e-ad7b-146906936c72,,,,
+2025-03-24T04:52:03.187000,"REPORT RequestId: 14909aaf-d853-459e-ad7b-146906936c72	Duration: 9203.36 ms	Billed Duration: 9204 ms	Memory Size: 1024 MB	Max Memory Used: 106 MB	Init Duration: 411.83 ms	
+",14909aaf-d853-459e-ad7b-146906936c72,9203.36,9204.0,1024.0,106.0
+2025-03-24T04:52:24.237000,"START RequestId: bbae19a9-2965-4932-a8cf-e03b8f096f17 Version: $LATEST
+",bbae19a9-2965-4932-a8cf-e03b8f096f17,,,,
+2025-03-24T04:52:24.237000,"Processing channel: C06FBUBJ3QE
+",,,,,
+2025-03-24T04:52:24.292000,"Found convention: 똥
+",,,,,
+2025-03-24T04:52:32.597000,"Found 4605 members in workspace
+",,,,,
+2025-03-24T04:52:32.891000,"END RequestId: bbae19a9-2965-4932-a8cf-e03b8f096f17
+",bbae19a9-2965-4932-a8cf-e03b8f096f17,,,,
+2025-03-24T04:52:32.891000,"REPORT RequestId: bbae19a9-2965-4932-a8cf-e03b8f096f17	Duration: 8653.06 ms	Billed Duration: 8654 ms	Memory Size: 1024 MB	Max Memory Used: 108 MB	
+",bbae19a9-2965-4932-a8cf-e03b8f096f17,8653.06,8654.0,1024.0,108.0
+2025-03-24T04:52:45.693000,"Processing channel: C06FBUBJ3QE
+",,,,,
+2025-03-24T04:52:45.693000,"START RequestId: a76fa2aa-0d0a-4d6e-98c7-c89a78fdae78 Version: $LATEST
+",a76fa2aa-0d0a-4d6e-98c7-c89a78fdae78,,,,
+2025-03-24T04:52:45.745000,"Found convention: 곤지암_____*
+",,,,,
+2025-03-24T04:52:54.177000,"Found 4605 members in workspace
+",,,,,
+2025-03-24T04:52:54.483000,"END RequestId: a76fa2aa-0d0a-4d6e-98c7-c89a78fdae78
+",a76fa2aa-0d0a-4d6e-98c7-c89a78fdae78,,,,
+2025-03-24T04:52:54.484000,"REPORT RequestId: a76fa2aa-0d0a-4d6e-98c7-c89a78fdae78	Duration: 8789.99 ms	Billed Duration: 8790 ms	Memory Size: 1024 MB	Max Memory Used: 108 MB	
+",a76fa2aa-0d0a-4d6e-98c7-c89a78fdae78,8789.99,8790.0,1024.0,108.0
